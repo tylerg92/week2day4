@@ -1,0 +1,59 @@
+.body {
+    text-align: center;
+}
+.Contactbox{
+    font-family: 'Titillium Web', sans-serif;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 57px 10px 22px 5px;
+    margin: 200px 700px;
+    width: 330px;
+    height: 200px;
+
+}
+.contactme {
+font-size: 20px;
+font-weight: bold;
+margin: -40px;
+text-align: center;
+
+}
+.first {
+float: left;
+padding: 5px;
+}
+.last{
+float: left;
+padding: 5px;
+}
+.email {
+float: left;
+padding: 5px;
+}
+.submit {
+margin: 25px 5px;
+float: left;
+}
+h2 {
+    margin: 0px;
+}
+form {
+    padding-top: 50px;
+    padding-left: 10px;
+    font-size: 19px;
+}
+input#submit {
+    width: 300px;
+   background: none;
+   border: 1px solid #1916166b;
+}
+input#firstname, input#lastname, input#email {
+    font-size: 20px;
+    border: 1px solid #1916166b;
+    height: 32px;
+}label.firstname, label.lastname, label.email {
+    font-size: 15px;
+    width: 200px;
+    height: 32px;
+    border: 1px solid #4e454594;
+}
